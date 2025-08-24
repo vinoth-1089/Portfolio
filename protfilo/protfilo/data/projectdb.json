@@ -1,0 +1,19 @@
+{
+    "projects":[
+        {   
+            "title":"E-COMMERCE APPLICATION",
+            "name":"Flipkart",
+            "img":"https://dvlpr.pro/macbook.png",
+            "code":"fdt",
+            "demo":"https://w3q8l017-5174.inc1.devtunnels.ms/"
+        },
+        {   
+           
+            "title":"Social media",
+            "name":"Instagram",
+            "img":"https://miro.medium.com/v2/resize:fit:1400/1*JdzIInqyfHorbQpID4O-Dw.jpeg",
+            "code":"fdt",
+            "demo":"https://w3q8l017-5173.inc1.devtunnels.ms/"
+        }
+    ]
+}

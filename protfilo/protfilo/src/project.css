@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+.project-card{
+    border-radius: 15px;
+    height:100vh;
+ 
+}
+.project-card img{
+    width: 500px;
+    height: 500px;
+    object-fit: contain;
+}
+.project-bg{
+    background-image:url('https://dvlpr.pro/side-dots.png');
+    background-repeat: no-repeat;
+    background-size:auto;
+    width: 100vw;
+    height: 100vh;
+    overflow-y: hidden;
+}
+
+.title{
+      color:grey;
+    font-family: 'poppins';
+    font-weight:200;
+}
+.project-card a{
+    line-height: 40px;
+}
+.project-card{
+     line-height: 30px;
+}
+.project-card img{
+    background-color:black;
+
+}
+
+.project-card a:hover i{
+    position: relative;
+    left: 10px;
+    transition: all 2s ease;
+}
+.sphere{
+    position: relative;
+    right: -500px;
+}
+.daimond{
+      position: absolute;
+      top: 100px;
+  left: -150px;
+}
+.cube2{
+    position: absolute;
+      top: 350px;
+  left: 1100px;
+  background: transparent;
+  
+
+}

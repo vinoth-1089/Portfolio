@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+  height: auto;
+  overflow-y: hidden;
+}
+.resume img{
+  width:100vw;
+  height: 90vh;
+  object-fit: contain;
+}
+.project{
+    background-image:url('https://dvlpr.pro/side-dots.png');
+    background-repeat: no-repeat;
+    background-size:auto;
+    
+}
+
+.project-1{
+    background-image:url('https://dvlpr.pro/side-dots.png');
+    background-repeat: no-repeat;
+    background-size:auto;
+    transform: rotate(120deg);
+    
+}
+.download-btn{
+  border: 1px solid white;
+  width:200px;
+  text-align: center;
+  border-radius: 10px;
+  position: relative;
+  bottom: 100px;
+
+}
+
+
+.moving{
+  animation: move 3s ease-in-out infinite;
+}
+@keyframes move{
+  0%{
+    transform:translateY(0px) ;
+  }
+    50%{
+    transform:translateY(-10px) ;
+  }
+  100%{
+    transform:translateY(0px) ;
+  }
+}
+
+.white{
+  position: absolute; 
+  left:200px;
+  top: 200px;
+  background:transparent;
+  width:150px;
+}

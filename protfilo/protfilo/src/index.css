@@ -1,0 +1,328 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color:rgba(20,20,23);
+}
+.nav-bar{
+    font-family:'poppins';
+    background:transparent;
+}
+body {
+  overflow-x: hidden;
+}
+.bg-trans{
+  background-image: url("https://www.remove.bg/images/canva-cta/bg_cta_1.jpg");
+  background-repeat: no-repeat;
+  background:transparent;
+
+}
+.bg-transparent{
+  backdrop-filter:blur(0px);
+}
+.contact-btn{
+    color:white;
+    width:100px;
+    margin-top: 20px;
+}
+
+.bouncy-text span {
+    display: inline-block;
+    margin: 0;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.bouncy-text span:hover {
+    animation: bounce 0.6s;
+    color:rgb(195, 135, 25);
+    background-color:transparent;
+}
+
+.about-link i {
+  display: inline-block; 
+  transition: transform 0.3s ease; 
+  color: #c800ff;
+}
+
+.about-link:hover i {
+  transform: rotate(90deg); 
+  color: #c800ff;
+}
+
+.about-link:hover{
+  color: #c800ff;
+}
+
+
+
+@keyframes bounce {
+    0%   { transform: translateY(0); }
+    30%  { transform: translateY(-15px); }
+    50%  { transform: translateY(0); }
+    70%  { transform: translateY(-8px); }
+    100% { transform: translateY(0); }
+}
+.violet-box{
+  position: relative;
+  left:100px;
+  bottom:-60px;
+}
+.github{
+   width:100px;
+
+}
+.page2,.page3{
+    width:100vw;
+    height:auto;
+    background-image:url('');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:center;
+    margin-top: auto;
+
+
+}
+.violet-box2{
+    width: 150px;
+    position: relative;
+    top:150px;
+    left:45%;
+}
+.violet-box3{
+    width: 150px;
+    position: relative;
+    top:-150px;
+    left:75%;
+}
+.page-bg-box{
+    width:200px;
+    height:200px;
+    background-size: contain;
+    background-image:url('https://dvlpr.pro/dark_cube2.png');
+    background-repeat:no-repeat;
+   
+}
+.page-2-h1{
+    font-family:'poppins';
+   
+}
+
+.page-2-h1 div{
+     letter-spacing: 2px;
+    margin:2px;
+  
+    line-height:80px;
+}
+h5{
+    color:grey;
+    font-family: 'poppins';
+
+    font-weight:400;
+}
+.course img{
+    width:100px;
+    height: 100px;
+    object-fit: contain;
+}
+.course{
+    width:80vw;
+}
+
+h4{
+    color:grey;
+    font-family: 'poppins';
+    font-weight:200;
+}
+.skills h4,p{
+  font-family: 'poppins';
+    font-weight: 200;
+}
+ 
+.page3 {
+  position: relative;
+  overflow: hidden;
+  min-height: 100vh;
+}
+
+
+.circle {
+  position: absolute;
+  z-index: 0;
+ 
+  opacity: 0.3;
+}
+
+.circle-1 {
+  top: 80px;
+  left: 50px;
+  width: 80px;
+}
+
+.circle-2 {
+  top: 200px;
+  right: 200px;
+  width: 200px;
+}
+
+.circle-3 {
+  bottom: 50px;
+  left: 150px;
+  width: 150px;
+}
+.circle-4 {
+  top: -700px;
+  left: 70%;
+  width: 150px;
+}
+
+/* Custom colors */
+.text-purple {
+  color: #c800ff;
+}
+
+@media (max-width: 768px) {
+  .circle-1 {
+    width: 50px;
+    top: 40px;
+  }
+  .circle-2 {
+    width: 120px;
+    top: 150px;
+    left: 100px;
+  }
+  .circle-3 {
+    width: 100px;
+    bottom: 90px;
+  }
+  .circle-4 {
+  top: -900px;
+  left: 260px;
+  width: 150px;
+  z-index:1;
+
+}
+.sqaure{
+  position: relative;
+  top: 100px;
+  left: 300px;
+}
+  .circle-5 {
+    width: 120px;
+    top: 50px;
+    left: 0px;
+  }
+  /* .violet-box-3{
+    position:relative;
+    bottom: 200px;
+  } */
+
+}
+
+
+.projects h1{
+    font-family:'poppins';
+    color:white;
+}
+.projects p{
+    font-family:'poppins';
+    color:white;
+    font-weight: 400;
+}
+.carousel-indicators button{
+    border-radius:50%;
+    width:20px;
+    height:20px;
+    background-color:#141417;
+    margin-left:10px;
+    border: 1px solid #2f2f34;
+}
+.earth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+
+}
+
+  .earth {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 50%;
+  position:relative;
+  top: 30%;
+  left:150px;
+}
+@keyframes rotateEarth {
+  0% { transform: rotate(180deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.earth {
+  animation: rotateEarth 60s linear infinite;
+}
+.contact-page {
+    background: linear-gradient(145deg, #0a0a0a, #1e1e1e);
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(255,255,255,0.1);
+}
+
+.contact-page a:hover {
+    color: #0d6efd !important;
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
+}
+.sqaure{
+  position: relative;
+  top: 50px;
+  left: 100px;
+
+}
+.page5{
+  width:100vw;
+  height:100vh;
+
+}
+.violet-box-3{
+  position:relative;
+  top: 10px;
+  left:-80px;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.floating {
+  animation: float 3s ease-in-out infinite;
+}
+.course img:hover{
+transform: scale(1.5);
+transition: all 1s  ease;
+}
+
+
+
+h6{
+  transform: rotate(270deg);
+  position: relative;
+  top: 200px;
+  right: -130px;
+    color: #edecee76;
+}
+h6:hover .bi-chevron-left{
+
+  position: relative;
+  right:10px;
+  transition: all 2s ease-in;
+}
