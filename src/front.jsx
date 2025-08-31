@@ -3,7 +3,7 @@ import { Link } from 'react-router';
 import resume from './resume.jsx';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import head from '../public/image.png';
+import head from './assets/image.png';
 import diamond from'./assets/diamond.png'
 import white from'./assets/whitecube.png'
 import sphere from'./assets/sphere.png'
