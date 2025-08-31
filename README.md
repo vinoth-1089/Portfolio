@@ -1,12 +1,53 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 👨‍💻 Personal Portfolio  
 
-Currently, two official plugins are available:
+[![Made with React](https://img.shields.io/badge/Made%20with-React-blue?logo=react)](https://react.dev/)  
+[![TailwindCSS](https://img.shields.io/badge/Styled%20with-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://vercel.com/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern and responsive *Portfolio Website* to showcase my projects, skills, and achievements.  
+Designed with a clean UI, smooth animations, and optimized for performance.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features  
+- 🏠 Interactive Home, About, Skills, Projects & Contact sections  
+- 📱 Fully responsive (mobile-first design)  
+- 🎨 Elegant UI with Framer Motion animations  
+- 🔗 Project cards with live demo & GitHub links  
+- 📧 Integrated contact form  
+
+---
+
+## 🛠 Tech Stack  
+- ⚛ React  
+- 🎨Bootstrap 
+- 🌐 React Router  
+
+---
+
+## 🚀 Deployment  
+The portfolio is live here 👉 [*View Portfolio*](https://portfoilo-vinothv.netlify.app/)  
+
+Deployed using:  
+- 🌍 Netlify (Frontend Hosting)  
+- ⚡ Optimized for fast loading  
+
+---
+
+## 📸 Screenshots  
+<img width="1894" height="967" alt="image" src="https://github.com/user-attachments/assets/9e9d3236-1e25-4355-a93b-d9afa7eead2e" />
+---
+
+## 👨‍💻 Author  
+Built with ❤ by [*Vinoth*](https://github.com/vinoth-1089)  
+
+💼 Connect with me:  
+- [LinkedIn](www.linkedin.com/in/-vinoth-)  
+- [Email](mailto:vinoth42007@gmail.com)  
+
+---
+
+## 📜 License  
+This project is licensed under the *MIT License* – feel free to use and modify.
