@@ -2,8 +2,8 @@
 # 👨‍💻 Personal Portfolio  
 
 [![Made with React](https://img.shields.io/badge/Made%20with-React-blue?logo=react)](https://react.dev/)  
-[![Bootstrap](https://img.shields.io/badge/Styled%20with-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)](https://boostrap.com/)  
-[![Deployed on Netlify](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://netlify.com/)  
+[![Bootstrap](https://img.shields.io/badge/Styled%20with-Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
+[![Deployed on Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/)  
 
 
 A modern and responsive *Portfolio Website* to showcase my projects, skills, and achievements.  
