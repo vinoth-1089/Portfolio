@@ -2,9 +2,9 @@
 # 👨‍💻 Personal Portfolio  
 
 [![Made with React](https://img.shields.io/badge/Made%20with-React-blue?logo=react)](https://react.dev/)  
-[![TailwindCSS](https://img.shields.io/badge/Styled%20with-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://vercel.com/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+[![Bootstrap](https://img.shields.io/badge/Styled%20with-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)](https://boostrap.com/)  
+[![Deployed on Netlify](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://netlify.com/)  
+
 
 A modern and responsive *Portfolio Website* to showcase my projects, skills, and achievements.  
 Designed with a clean UI, smooth animations, and optimized for performance.  
