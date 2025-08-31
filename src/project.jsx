@@ -23,7 +23,7 @@ function project() {
     }
   };
    useEffect(()=>{
-      fetchData("http://localhost:3002/projects",setproject)
+      fetchData("https://db-2-tnbu.onrender.com/projects",setproject)
     },[])
 
       useEffect(() => {
