@@ -38,6 +38,10 @@ Deployed using:
 
 ## 📸 Screenshots  
 <img width="1894" height="967" alt="image" src="https://github.com/user-attachments/assets/9e9d3236-1e25-4355-a93b-d9afa7eead2e" />
+<img width="1899" height="966" alt="image" src="https://github.com/user-attachments/assets/e96e7c84-3562-46dc-9f2e-419559d15a29" />
+
+<img width="1901" height="968" alt="image" src="https://github.com/user-attachments/assets/2a3a5b43-8aa2-4aff-80a1-bfd26bba4f37" />
+
 ---
 
 ## 👨‍💻 Author  
