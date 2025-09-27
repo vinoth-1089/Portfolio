@@ -14,14 +14,15 @@ import Splash from './splash.jsx';
 function Front() {
 
 
-  const[load,setload]=useState(false);
+  const[load,setload]=useState(true);
 
  
 
     useEffect(()=>{
        const timer = setTimeout(()=>{
-          setload(true)
-       },1000)
+          setload(false)
+       },3000);
+        return()=> clearTimeout(timer);
     },[])
  
 
@@ -78,6 +79,7 @@ function Front() {
                        
                         key={i}
                         className="text-white fs-4"
+                        target="_blank" rel="noopener noreferrer"
                       >
                         <i className={`bi bi-${item.icon}`}></i>
                         
@@ -155,7 +157,7 @@ function Front() {
                 </div>
               </h1>
               <h5 className=' fs-6' data-aos="zoom-in">
-                Front End Developer / JavaScript Fan / Wordpress Expert
+                Front End Developer / JavaScript Fan
               </h5>
               <div className="page-bg-box mx-auto my-5 floating" data-aos="zoom-in"></div>
             </div>
@@ -310,7 +312,7 @@ function Front() {
                       { href: 'https://github.com/vinoth-1089/', icon: 'github' ,type:'external'},
                       { href: 'https://www.linkedin.com/in/-vinoth-', icon: 'linkedin' ,type:'external'},
                       { href: 'https://www.instagram.com/algoneuron.in/', icon: 'instagram',type:'external' },
-                      { href: 'https://stackoverflow.com/questions', icon: 'stack-overflow',type:'external' },
+                      { href: 'https://leetcode.com/u/vinoth-2007/', icon: 'stack-overflow',type:'external' },
                       { href: '/resume'  , icon:'file-earmark-person',type:'internal'}
                     ].map((item, i) => 
                       item.type ==="external"?(
