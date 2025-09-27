@@ -4,7 +4,7 @@
             "title":"E-COMMERCE APPLICATION",
             "name":"Flipkart",
             "img":"https://dvlpr.pro/macbook.png",
-            "code":"fdt",
+            "code":"",
             "demo":"https://filpcart-clone.netlify.app/"
         },
         {   
@@ -12,7 +12,7 @@
             "title":"Social media",
             "name":"Instagram",
             "img":"https://miro.medium.com/v2/resize:fit:1400/1*JdzIInqyfHorbQpID4O-Dw.jpeg",
-            "code":"fdt",
+            "code":"",
             "demo":""
         }
     ]
