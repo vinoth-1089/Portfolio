@@ -54,7 +54,8 @@ npm run build
 Add your portfolio screenshots or demo gifs here.
 
 <img width="1901" height="969" alt="Screenshot 2025-11-04 060224" src="https://github.com/user-attachments/assets/52536645-2db1-42bd-917d-b5ab0dfdc665" />
-<img width="1901" height="969" alt="Screenshot 2025-11-04 060224" src="https://github.com/user-attachments/assets/a47d51cd-f3f6-44e6-888c-40126e2ade7b" />
+<img width="1900" height="971" alt="Screenshot 2025-11-04 060245" src="https://github.com/user-attachments/assets/1d18f968-ccc9-4e9f-94a4-46edd3ddf653" />
+
 <img width="1894" height="968" alt="Screenshot 2025-11-04 060429" src="https://github.com/user-attachments/assets/619f5e68-74d4-4888-9863-5c0312970748" />
 
 
