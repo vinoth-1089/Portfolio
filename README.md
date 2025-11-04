@@ -76,7 +76,7 @@ Example:
 git push origin main
 ```
 
-🔗 Live Demo: [**View My Portfolio**]([(https://portfoilo-vinothv.netlify.app/)])
+🔗 Live Demo:[(https://portfoilo-vinothv.netlify.app/)]
 
 ---
 
