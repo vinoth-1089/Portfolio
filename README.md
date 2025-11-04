@@ -7,7 +7,7 @@
 
 A modern **Personal Portfolio Website** built using **React.js**, **HTML**, **CSS**, and **Bootstrap** to showcase your projects, skills, and experience.
 
----
+
 
 ## ✨ Features
 
@@ -19,7 +19,7 @@ A modern **Personal Portfolio Website** built using **React.js**, **HTML**, **CS
 * 🌙 Light/Dark mode toggle
 * 📱 Fully responsive design
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -28,7 +28,7 @@ A modern **Personal Portfolio Website** built using **React.js**, **HTML**, **CS
 * 🧱 HTML5 & CSS3 – Layout and design
 * 🌐 React Router DOM – Page navigation
 
----
+
 
 ## 🚀 Setup Instructions
 
@@ -47,7 +47,6 @@ npm start
 npm run build
 ```
 
----
 
 ## 📸 Screenshots
 
@@ -61,7 +60,6 @@ Add your portfolio screenshots or demo gifs here.
 
 
 
----
 
 ## 🌍 Deployment
 
@@ -78,14 +76,11 @@ git push origin main
 
 🔗 Live Demo:[(https://portfoilo-vinothv.netlify.app/)]
 
----
+
 
 ## 👨‍💻 Author
 
 Developed by [**Vinoth V**]
 
----
 
-## 📜 License
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
