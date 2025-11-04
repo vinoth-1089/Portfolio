@@ -68,7 +68,6 @@ Add your portfolio screenshots or demo gifs here.
 Deploy easily using:
 
 * **Netlify**
-* **Vercel**
 * **GitHub Pages**
 
 Example:
@@ -77,13 +76,13 @@ Example:
 git push origin main
 ```
 
-🔗 Live Demo: [**View My Portfolio**](https://your-portfolio-link.netlify.app/)
+🔗 Live Demo: [**View My Portfolio**]([(https://portfoilo-vinothv.netlify.app/)])
 
 ---
 
 ## 👨‍💻 Author
 
-Developed by [**Your Name**](https://github.com/your-username)
+Developed by [**Vinoth V**]
 
 ---
 
